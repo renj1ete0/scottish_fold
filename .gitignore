@@ -1,0 +1,6 @@
+*.env*
+*.pyc*
+*_pycache_*
+*.json*
+/raw_data/*.csv*
+/data/*.csv*

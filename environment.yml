@@ -1,0 +1,19 @@
+name: scottish_fold
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - jupyter
+  - jupyterlab
+  - notebook
+  - ipykernel
+  - numpy
+  - pandas
+  - scipy
+  - matplotlib
+  - seaborn
+  - geopandas
+  - keplergl
+  - scikit-learn
+  - tqdm

@@ -2,5 +2,5 @@
 *.pyc*
 *_pycache_*
 *.json*
-/raw_data/*.csv*
+/raw_data/*.zip*
 /data/*.csv*

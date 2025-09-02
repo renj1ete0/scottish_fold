@@ -10,10 +10,12 @@ dependencies:
   - ipykernel
   - numpy
   - pandas
+  - plotly
   - scipy
   - matplotlib
   - seaborn
   - geopandas
-  - keplergl
+  - keplergl=0.3.7
   - scikit-learn
   - tqdm
+  - dotenv
